@@ -1,4 +1,4 @@
-git add .
+git add --all
 set /P comment=Enter Comment:
 git commit -m comment
 
